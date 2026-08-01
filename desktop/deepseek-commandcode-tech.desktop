@@ -5,6 +5,6 @@ Comment=Hand off an unresolved issue from DeepSeek to Command Code (GLM 5.2)
 Exec=/tumble-storage/tumble-script/deepseek-commandcode-tech/run.sh
 Path=/tumble-storage/tumble-script
 Icon=utilities-terminal
-Categories=Development;TerminalEmulator;
+Categories=Development;
 Terminal=true
 X-KDE-Trusted=true
